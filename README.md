@@ -8,7 +8,7 @@
 * Fiat dependency : No
 * Tokens locked : Yes
 * Smart-contracts description : 
-Boltt token crowdsale contract have spaecial feature Dual block chain swap mechanism where user can seemlesly interchange the coin of Waes and ethereum blockchain.
+Boltt token crowdsale contract have spaecial feature **Dual block chain swap** mechanism where user can seemlesly interchange the coin of Waes and ethereum blockchain.
 
 Contracts contains
 BolttToken - Token contract
