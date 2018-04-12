@@ -1,13 +1,13 @@
 # Boltt smart contract
-Standard : ERC20
-Name : BOLTT COIN
-Ticker : BOLTT
-Decimals : 8 (Dual blockchain supported)
-Emission : Standard
-Crowdsales : 1
-Fiat dependency : No
-Tokens locked : Yes
-Smart-contracts description
+* Standard : ERC20
+* Name : BOLTT COIN
+* Ticker : BOLTT
+* Decimals : 8 (Dual blockchain supported)
+* Emission : Standard
+* Crowdsales : 1
+* Fiat dependency : No
+* Tokens locked : Yes
+* Smart-contracts description
 Boltt token crowdsale contract have spaecial feature Dual block chain swap mechanism where user can seemlesly interchange the coin of Waes and ethereum blockchain.
 
 Contracts contains
