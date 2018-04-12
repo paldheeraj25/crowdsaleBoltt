@@ -1,4 +1,4 @@
-Boltt smart contract
+# Boltt smart contract
 Standard : ERC20
 Name : BOLTT COIN
 Ticker : BOLTT
