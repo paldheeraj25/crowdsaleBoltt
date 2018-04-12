@@ -39,6 +39,6 @@ Maximum tokens can mint - 100 000 000 BOLTT
 
 Main network configuration
 Minimal insvested limit : 0.01 ETH
-Founders tokens lock period : 90 days
+Founders tokens lock period : 90 days.
 
 
